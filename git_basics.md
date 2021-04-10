@@ -10,7 +10,7 @@ git add *
 git add [filename]
 ```
 ```git add .``` adds all the files to the staging area, whereas ```git add *``` adds only the files in the current directory
-### To stage and remove a file
+### To remove a file and stage the removal
 ```
 git rm [filename]
 ```
